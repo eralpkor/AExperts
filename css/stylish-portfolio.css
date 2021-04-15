@@ -59,7 +59,17 @@ h6 {
 .map iframe {
   pointer-events: none;
 }
+ /* Special CSS entries*/
+#logo_img {
+  width: 20em;
+}
 
+.navbar {
+  /* background-color: orangered; */
+  background-color: rgba(56, 65, 71, 0.8);
+    border-top-color: rgba(36, 42, 46, 0.5);
+}
+ /* Special CSS entries*/
 .scroll-to-top {
   position: fixed;
   right: 15px;
