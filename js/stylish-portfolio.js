@@ -1,6 +1,9 @@
 (function($) {
   "use strict"; // Start of use strict
 
+  // Change the color of nav-bar
+  $(".")
+
   // Closes the sidebar menu
   $(".menu-toggle").click(function(e) {
     e.preventDefault();
